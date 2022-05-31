@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: rgb(46, 46, 46);
+}
+
+.animation{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container{
+    height: 40rem;
+    width: 60rem;
+    background: transparent;
+    margin: 0 auto;
+    margin-top: 4rem;
+    border: 5px solid rgb(29, 199, 208);
+}
+.camera{
+    height: 30rem;
+    width: 40rem;
+    margin: 0 auto;
+    margin-top: 4rem;
+    border: 5px solid rgb(29, 199, 208);
+}
+.spline-watermark{
+    display: none;
+    opacity: 0;
+}.spline-watermark img{    
+    display: none;
+    opacity: 0;
+}
