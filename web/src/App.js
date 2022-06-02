@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-      <h1>--- GROUP 18 React Web ---<br/>
+      <h1>GROUP 18 React Web<br/>
         Azure Virtual Machine
       </h1>
         <img src={logo} className="App-logo" alt="logo" />
